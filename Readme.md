@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meenakshi176&label=Profile%20views&color=0e75b6&style=flat" alt="meenakshi176" /> </p>
 
-- I made this project with my team. [Intern theory Clone website](https://venerable-moxie-7fca57.netlify.app/)
+ 🌱 I’m currently learning **FULL STACK WEB DEVELOPMENT FROM MASAI BENGALURU**
 
-- 🌱 I’m currently learning **FULL STACK WEB DEVELOPMENT FROM MASAI BENGALURU**
+- I made this project with my team. [Intern theory Clone website](https://venerable-moxie-7fca57.netlify.app/)
 
 - I made this project Individually [Pharmacy Clone website](https://gleaming-haupia-a989a3.netlify.app/)
 
