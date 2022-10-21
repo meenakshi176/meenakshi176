@@ -22,12 +22,15 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/16x7IpEzANjmplIHKvPOBGHVSZ8-5JJP6/view?usp=sharing](https://drive.google.com/file/d/16x7IpEzANjmplIHKvPOBGHVSZ8-5JJP6/view?usp=sharing)
 
 - ⚡ Fun fact **Knowledge is the Key to Build your Skill**
-
+<br>
 <h3 align="left">Connect With Me:📫</h3>
+<br>
+
 <div align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/meenakshi-singh-thakur-8b60a5220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/meenakshi-singh-thakur-8b60a5220/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/meenakshi-singh-thakur-8b60a5220/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://codesandbox.com/https://codesandbox.io/u/meenakshisinghthakur4668" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/meenakshisinghthakur4668" height="30" width="40" /></a>
-</p>
+<a  href="mailto:meenakshisinghthakur4668@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a  href="https://github.com/meenakshi176" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 <br>
 
@@ -78,7 +81,8 @@
 
 <br>
 
-<h3 align="left">My GitHub Stats:</h3>
+<h3 align="center">My GitHub Stats:</h3>
+<br>
 <p align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meenakshi176&show_icons=true&locale=en&layout=compact" alt="meenakshi176" /></p>
 
@@ -87,5 +91,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meenakshi176&" alt="meenakshi176" /></p>
 
 
-<h3 align="center" color="green">Stay Happy, Stay Motivated </h3>
-<img height=50px src="https://i.pinimg.com/originals/69/52/88/69528895726f32fc384babcde61a535a.gif" alt="">
+
+<h3 align="center" color="green">"Stay Happy, Stay Motivated"</h3>
+
