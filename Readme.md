@@ -5,23 +5,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meenakshi176&label=Profile%20views&color=0e75b6&style=flat" alt="meenakshi176" /> </p>
 
- 🌱 I’m currently learning **FULL STACK WEB DEVELOPMENT FROM MASAI BENGALURU**
+ 🌱 I’m currently learning:- **FULL STACK WEB DEVELOPMENT FROM MASAI BENGALURU**
 
-- I made this project with my team. [Intern theory Clone website](https://venerable-moxie-7fca57.netlify.app/)
+- I made this project with my team:- [Intern theory Clone website](https://venerable-moxie-7fca57.netlify.app/)
 
-- I made this project Individually [Pharmacy Clone website](https://gleaming-haupia-a989a3.netlify.app/)
+- I made this project Individually:- [Pharmacy Clone website](https://gleaming-haupia-a989a3.netlify.app/)
 
-- 🤝 This is my React Based Individual project [Kimaye-app Clone website](https://kimaye-app.vercel.app/)
+- 🤝 This is my React Based Individual project:- [Kimaye-app Clone website](https://kimaye-app.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://meenakshi176.github.io/](https://meenakshi176.github.io/)
+- 👨‍💻 All of my projects are available at:- [https://meenakshi176.github.io/](https://meenakshi176.github.io/)
 
-- 💬 Ask me about **HTML,CSS, JAVASCRIPT,MONGODB,EXPRESS,NODEJS,REACT.**
+- 💬 Ask me about :-**HTML,CSS, JAVASCRIPT,MONGODB,EXPRESS,NODEJS,REACT.**
 
-- 📫 How to reach me **meenakshisinghthakur4668@gmail.com**
+- 📫 How to reach me:- **meenakshisinghthakur4668@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16x7IpEzANjmplIHKvPOBGHVSZ8-5JJP6/view?usp=sharing](https://drive.google.com/file/d/16x7IpEzANjmplIHKvPOBGHVSZ8-5JJP6/view?usp=sharing)
+- 📄 Know about my experiences :-[https://drive.google.com/file/d/16x7IpEzANjmplIHKvPOBGHVSZ8-5JJP6/view?usp=sharing](https://drive.google.com/file/d/16x7IpEzANjmplIHKvPOBGHVSZ8-5JJP6/view?usp=sharing)
 
-- ⚡ Fun fact **Knowledge is the Key to Build your Skill**
+- ⚡ Fun fact :- **Knowledge is the Key to Build your Skill**
 <br>
 <h3 align="left">Connect With Me:📫</h3>
 <br>
@@ -85,6 +85,7 @@
 <br>
 <p align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meenakshi176&show_icons=true&locale=en&layout=compact" alt="meenakshi176" /></p>
+<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meenakshi176&show_icons=true&locale=en" alt="meenakshi176" /></p>
 
