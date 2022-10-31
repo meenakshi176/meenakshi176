@@ -11,8 +11,6 @@
 
 - I made this project Individually:- [Pharmacy Clone website](https://gleaming-haupia-a989a3.netlify.app/)
 
-- 🤝 This is my React Based Individual project:- [Kimaye-app Clone website](https://kimaye-app.vercel.app/)
-
 - 👨‍💻 All of my projects are available at:- [https://meenakshi176.github.io/](https://meenakshi176.github.io/)
 
 - 💬 Ask me about :-**HTML,CSS, JAVASCRIPT,MONGODB,EXPRESS,NODEJS,REACT.**
