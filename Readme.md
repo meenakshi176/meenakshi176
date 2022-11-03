@@ -17,7 +17,7 @@
 
 - 📫 How to reach me:- **meenakshisinghthakur4668@gmail.com**
 
-- 📄 Know about my experiences:- https://drive.google.com/file/d/1erWtTkXDZlJtg8lGDus1Lal8Jo3ui6z_/view?usp=sharing
+- 📄 Know about my experiences:- https://drive.google.com/file/d/1HiBZzGmgGzBwNDXdJo9xDj3jjK8Nshqr/view?usp=sharing
 
 - ⚡ Fun fact :- **Knowledge is the Key to Build your Skill**
 <br>
