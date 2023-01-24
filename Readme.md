@@ -75,9 +75,8 @@
 <br>
 <p align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meenakshi176&show_icons=true&locale=en&layout=compact" alt="meenakshi176" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=meenakshi176&show_icons=true&locale=en" alt="meenakshi176" /></p>
- <br/>
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meenakshi176&" alt="meenakshi176" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=meenakshi176&show_icons=true&locale=en" alt="meenakshi176" />
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meenakshi176&" alt="meenakshi176" /></p>
 
 
 
