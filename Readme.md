@@ -7,10 +7,6 @@
 
  🌱 I’m currently learning:- **FULL STACK WEB DEVELOPMENT FROM MASAI BENGALURU**
 
-- I made this project with my team:- [Intern theory Clone website](https://venerable-moxie-7fca57.netlify.app/)
-
-- I made this project Individually:- [Pharmacy Clone website](https://gleaming-haupia-a989a3.netlify.app/)
-
 - 👨‍💻 All of my projects are available at:- [https://meenakshi176.github.io/](https://meenakshi176.github.io/)
 
 - 💬 Ask me about :-**HTML,CSS, JAVASCRIPT,MONGODB,EXPRESS,NODEJS,REACT.**
