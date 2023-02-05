@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at:- [https://meenakshi176.github.io/](https://meenakshi176.github.io/)
 
-- 💬 Ask me about :-**HTML,CSS, JAVASCRIPT,MONGODB,EXPRESS,NODEJS,REACT.**
+- 💬 Ask me about :-**HTML,CSS,JavaScript,React,Redux,ChakraUI,MONGODB,EXPRESS,NODEJS.**
 
 - 📫 How to reach me:- **meenakshisinghthakur4668@gmail.com**
 
-- 📄 Know about my experiences:- https://drive.google.com/file/d/1HiBZzGmgGzBwNDXdJo9xDj3jjK8Nshqr/view?usp=sharing
+- 📄 Know about my experiences:-[ https://drive.google.com/file/d/1HiBZzGmgGzBwNDXdJo9xDj3jjK8Nshqr/view?usp=sharing](https://drive.google.com/file/d/1PcIVv7UnTchVx_yy6IUV8iczZwR1d5yB/view?usp=sharing)
 
 - ⚡ Fun fact :- **Knowledge is the Key to Build your Skill**
 <br>
